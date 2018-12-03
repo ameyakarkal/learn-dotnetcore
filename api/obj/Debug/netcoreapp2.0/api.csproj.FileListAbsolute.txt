@@ -1,0 +1,10 @@
+/Users/akarkal/frictionless/learn-dotnetcore/api/bin/Debug/netcoreapp2.0/api.deps.json
+/Users/akarkal/frictionless/learn-dotnetcore/api/bin/Debug/netcoreapp2.0/api.runtimeconfig.json
+/Users/akarkal/frictionless/learn-dotnetcore/api/bin/Debug/netcoreapp2.0/api.runtimeconfig.dev.json
+/Users/akarkal/frictionless/learn-dotnetcore/api/bin/Debug/netcoreapp2.0/api.dll
+/Users/akarkal/frictionless/learn-dotnetcore/api/bin/Debug/netcoreapp2.0/api.pdb
+/Users/akarkal/frictionless/learn-dotnetcore/api/obj/Debug/netcoreapp2.0/api.csproj.CoreCompileInputs.cache
+/Users/akarkal/frictionless/learn-dotnetcore/api/obj/Debug/netcoreapp2.0/api.AssemblyInfoInputs.cache
+/Users/akarkal/frictionless/learn-dotnetcore/api/obj/Debug/netcoreapp2.0/api.AssemblyInfo.cs
+/Users/akarkal/frictionless/learn-dotnetcore/api/obj/Debug/netcoreapp2.0/api.dll
+/Users/akarkal/frictionless/learn-dotnetcore/api/obj/Debug/netcoreapp2.0/api.pdb
