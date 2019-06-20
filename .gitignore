@@ -1,0 +1,4 @@
+# git ignore compiletime artifacts
+**/obj/
+**/bin/
+**/wwwroot
