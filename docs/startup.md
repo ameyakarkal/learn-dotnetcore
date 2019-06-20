@@ -16,3 +16,9 @@
     api : name of the project
   */
 ```
+
+run project
+
+```
+  dotnet build 
+```
