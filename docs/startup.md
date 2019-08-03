@@ -1,6 +1,6 @@
- # startup
- 
- > Simple api to learn dotnet core on the mac side using visual studio code
+# startup
+
+> Simple api to learn dotnet core on the mac side using visual studio code
 
 ## setup project
 
@@ -19,6 +19,7 @@
 
 run project
 
-```
-  dotnet build 
+```bash
+  dotnet build [path to api.csproj]
+  dotnet run --evnironment Development --project startup/api/api.csproj
 ```
